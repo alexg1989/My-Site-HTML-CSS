@@ -1,0 +1,142 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 4rem;
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: 900;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  border-style:dotted none none;
+  border-color:#EAF6F6;
+  border-width:10px;
+  height:1px;
+  width:10%;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 150px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  color: #EAF6F6;
+  padding: 50px;
+  line-height: 2;
+  margin-top: 3.125rem;
+}
+
+.copyright {
+  font-size: .75rem;
+  padding: 20px 0;
+}
+
+.skills {
+  margin-top: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  text-align: center;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.contact-me {
+  width: 60%;
+  margin: 50px auto 0 auto;
+  line-height: 2;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #11999E;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #34d9bd;
+  background-image: -webkit-linear-gradient(top, #34d9bd, #34d9bd);
+  background-image: -moz-linear-gradient(top, #34d9bd, #34d9bd);
+  background-image: -ms-linear-gradient(top, #34d9bd, #34d9bd);
+  background-image: -o-linear-gradient(top, #34d9bd, #34d9bd);
+  background-image: linear-gradient(to bottom, #34d9bd, #34d9bd);
+  text-decoration: none;
+}
+
+.footer-link {
+  color: #11999E;
+  font-family: "Montserrat", sans-serif;
+  display: inline-block;
+  width: 100px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAEAF6;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 15%;
+  top: 4.6875rem;
+}
+
+.profile {
+  width: 25%;
+  margin: 75px auto 75px auto;
+}
+
+.profile-dis {
+  line-height: 2;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 15%;
+  top: 23.4375rem;
+}
+
+.code-img {
+  width: 6.25rem;
+  float: left;
+  margin-right: 10px;
+}
+
+.chilli-img {
+  width: 6.25rem;
+  float: right;
+  margin-left: 10px;
+}
